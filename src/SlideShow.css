@@ -1,0 +1,28 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css);
+.slideshow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #E9E7E6;
+}
+
+.slideshow img {
+  width: 50%;
+  height: auto;
+  margin: 0 20px;
+}
+
+.slideshow__arrow {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: large;
+  color: #636e72;
+  margin: 0 10px;
+  visibility: hidden;
+  transition: all 0.3s ease;
+
+}
+.slideshow:hover .slideshow__arrow {
+    visibility: visible;
+  }
