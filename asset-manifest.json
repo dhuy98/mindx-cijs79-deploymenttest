@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mindx-cijs79-deploymenttest/static/css/main.695a6688.css",
+    "main.js": "/mindx-cijs79-deploymenttest/static/js/main.dae9104c.js",
+    "static/js/787.0c3f432a.chunk.js": "/mindx-cijs79-deploymenttest/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/mindx-cijs79-deploymenttest/index.html",
+    "main.695a6688.css.map": "/mindx-cijs79-deploymenttest/static/css/main.695a6688.css.map",
+    "main.dae9104c.js.map": "/mindx-cijs79-deploymenttest/static/js/main.dae9104c.js.map",
+    "787.0c3f432a.chunk.js.map": "/mindx-cijs79-deploymenttest/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.695a6688.css",
+    "static/js/main.dae9104c.js"
+  ]
+}
